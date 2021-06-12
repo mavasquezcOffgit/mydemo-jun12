@@ -1,3 +1,3 @@
 # mydemo-jun12
 
-My demo repo -edited wia the Github intercface
+My demo repo -edited via the Github interface
